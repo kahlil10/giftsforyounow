@@ -10,17 +10,17 @@ import UgcGallery from "./components/UgcGallery";
 
 function App() {
   //Instance ID
-  let InstanceId_Widget = "736973";
-  let InstanceId_QA = "737012";
+  let InstanceId_Widget = "661139";
+  let InstanceId_QA = "";
   let InstanceId_SEO = "";
   let InstanceId_Carousel = ""; 
-  let InstanceId_StarRating = "736982";
-  let InstanceId_PromotedProd = "737009";
+  let InstanceId_StarRating = "";
+  let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
 
   //Product ID
-  let ProductId = "DOHEMP";
+  let ProductId = "true";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
