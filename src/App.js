@@ -13,8 +13,8 @@ function App() {
   let InstanceId_Widget = "736972";
   let InstanceId_QA = "";
   let InstanceId_SEO = "";
-  let InstanceId_Carousel = "";
-  let InstanceId_StarRating = "";
+  let InstanceId_Carousel = ""; 
+  let InstanceId_StarRating = "736982";
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
