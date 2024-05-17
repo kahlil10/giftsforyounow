@@ -4,7 +4,7 @@ import { CopyToClipboard } from "react-copy-to-clipboard";
 function StarRatingClipboard() {
   const [value, setValue] = useState(`
       <div class="yotpo-widget-instance" 
-      data-yotpo-instance-id="491372" 
+      data-yotpo-instance-id="736982" 
       data-yotpo-product-id="Product ID">
       </div>
     `);
