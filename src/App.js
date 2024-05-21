@@ -19,8 +19,8 @@ function App() {
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
 
-  //Product ID
-  let ProductId = "10263";
+  //Product ID 10263
+  let ProductId = "";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
