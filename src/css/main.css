@@ -225,7 +225,14 @@ body {
   --StoreOwnerAvatar_Yotpo:;
 }
 
-Gotham
+.yotpo-reviews-main-widget {
+  --primary-font-family: "Gotham", sans-serif !important;
+  --primary-font-weight: 700 !important;
+  --primary-font-style: normal !important;
+  --secondary-font-family: "Gotham", sans-serif !important;
+  --secondary-font-weight: 400 !important;
+  --secondary-font-style: normal !important;
+}
 
 div#yotpo-reviews-main-widget *, .modal-backdrop *{
 font-family: 'Gotham', var(--FallbackFont_Yotpo) !important;
