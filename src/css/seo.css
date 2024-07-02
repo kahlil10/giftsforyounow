@@ -18,8 +18,8 @@
     font-style: normal;
 }
 
-/* === Changing font and colors === */
-:root{
+/* === Changing font and colors 1.1 === */
+:root{ 
     --PrimaryColor_Yotpo: #91D1CF;
     --SecondaryColor_Yotpo: #91D1CF;
     --FontColor_Yotpo: #6B6D76;
