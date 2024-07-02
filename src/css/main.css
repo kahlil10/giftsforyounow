@@ -227,7 +227,7 @@ body {
   --VerifiedIconBackgroundColor_Yotpo: #1cc286;
 }
 
-.yotpo-reviews-main-widget {
+.yotpo-reviews-main-widget, .yotpo-questions-and-answers {
   --primary-font-family: "Gotham", sans-serif !important;
   --primary-font-weight: 400 !important;
   --primary-font-style: normal !important;
