@@ -227,10 +227,6 @@ body {
   --VerifiedIconBackgroundColor_Yotpo: #1cc286;
 }
 
-.yotpo-widget-clear, .yotpo-widget-clear button, .yotpo-widget-clear form input, .yotpo-widget-clear span {
-  color: #6b6d76;
-}
-
 .yotpo-reviews-main-widget {
   --primary-font-family: "Gotham", sans-serif !important;
   --primary-font-weight: 500 !important;
@@ -715,4 +711,8 @@ a.yotpo-checkbox-link {
 
 .yotpo-display-m .yotpo-search-filter.yotpo-free-search-filter-container, .yotpo-display-m input#scoreDropdownInput {
   margin-bottom: 15px;
+}
+
+.yotpo-widget-clear, .yotpo-widget-clear button, .yotpo-widget-clear form input, .yotpo-widget-clear span {
+  color: #6b6d76!important;
 }
