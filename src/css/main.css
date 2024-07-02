@@ -193,24 +193,24 @@ body {
 /*=== === === === === === ===  widget v3 Css === === === === === ===  */
 /* === FONT USED === */
 @font-face {
-  font-family: 'Source Han Sans K';
-  src: url('https://www.emma-sleep.co.kr/cdn/shop/t/44/assets/Source%20Han%20Sans%20KR-Regular.otf');
+  font-family: 'Gotham';
+  src: url('https://cdn.shopify.com/s/files/1/0708/4605/4708/files/Gotham_Black_Regular.ttf?v=1711740582');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Source Han Sans K';
-  src: url('https://www.emma-sleep.co.kr/cdn/shop/t/44/assets/Source%20Han%20Sans%20KR-Medium.otf');
+  font-family: 'Gotham';
+  src: url('https://cdn.shopify.com/s/files/1/0708/4605/4708/files/Gotham-Medium.otf?v=1686018012');
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Source Han Sans K';
-  src: url('https://www.emma-sleep.co.kr/cdn/shop/t/44/assets/Source%20Han%20Sans%20KR-Bold.otf');
+  font-family: 'Gotham';
+  src: url('https://cdn.shopify.com/s/files/1/0708/4605/4708/files/Gotham-Bold.woff2?v=1711537660');
   font-weight: bold;
   font-style: normal;
 }
-
+ 
 /* === Changing font and colors 1.1 === */
 :root{ 
   --PrimaryColor_Yotpo: #91D1CF;
@@ -225,12 +225,13 @@ body {
   --StoreOwnerAvatar_Yotpo:;
 }
 
+Gotham
 
 div#yotpo-reviews-main-widget *, .modal-backdrop *{
-font-family: 'Source Han Sans K', var(--FallbackFont_Yotpo) !important;
+font-family: 'Gotham', var(--FallbackFont_Yotpo) !important;
 }
 ::placeholder{
-  font-family: 'Source Han Sans K', var(--FallbackFont_Yotpo) !important;
+  font-family: 'Gotham', var(--FallbackFont_Yotpo) !important;
 }
 
 .yotpo-reviews-main-widget .yotpo-head .yotpo-reviews-wrapper .yotpo-reviews-trademark svg path{
@@ -699,6 +700,6 @@ a.yotpo-checkbox-link {
   flex-wrap: wrap;
 }
 
-.yotpo-display-m .yotpo-search-filter.yotpo-free-search-filter-container {
+.yotpo-display-m .yotpo-search-filter.yotpo-free-search-filter-container, .yotpo-display-m input#scoreDropdownInput {
   margin-bottom: 15px;
 }
