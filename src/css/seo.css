@@ -20,14 +20,14 @@
 
 /* === Changing font and colors === */
 :root{
-    --PrimaryColor_Yotpo: #FF8900;
-    --SecondaryColor_Yotpo: #FF8900;
-    --FontColor_Yotpo: #2E2F3C;
-    --BorderColor_Yotpo: #2E2F3C;
+    --PrimaryColor_Yotpo: #91D1CF;
+    --SecondaryColor_Yotpo: #91D1CF;
+    --FontColor_Yotpo: #6B6D76;
+    --BorderColor_Yotpo: #6B6D76;
     --FallbackFont_Yotpo: sans-serif;
-    --TitleReviews_Yotpo: #2E2F3C;
+    --TitleReviews_Yotpo: #6B6D76;
     --TitleReviewsWeight_Yotpo: bold;
-    --ContentReviews_Yotpo: #2E2F3C;
+    --ContentReviews_Yotpo: #6B6D76;
     --VerifiedIconBackgroundColor_Yotpo: #1cc286;
     --StoreOwnerAvatar_Yotpo:;
 }
@@ -498,7 +498,7 @@ div#yotpo-mobile-filters-popup {
 }
 
 a.yotpo-checkbox-link {
-    color: #FF8900;
+    color: #91D1CF;
 }
 
 
