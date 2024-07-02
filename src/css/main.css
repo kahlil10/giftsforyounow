@@ -192,22 +192,25 @@ body {
 
 /*=== === === === === === ===  widget v3 Css === === === === === ===  */
 /* === FONT USED === */
-@font-face {
-  font-family: 'Gotham';
-  src: url('https://cdn.shopify.com/s/files/1/0708/4605/4708/files/Gotham_Black_Regular.ttf?v=1711740582');
-  font-weight: 400;
-  font-style: normal;
-}
+
 @font-face {
   font-family: 'Gotham';
   src: url('https://cdn.shopify.com/s/files/1/0708/4605/4708/files/Gotham-Medium.otf?v=1686018012');
   font-weight: 500;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'Gotham';
   src: url('https://cdn.shopify.com/s/files/1/0708/4605/4708/files/Gotham-Bold.woff2?v=1711537660');
-  font-weight: bold;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('https://cdn.shopify.com/s/files/1/0708/4605/4708/files/Gotham_Black_Regular.ttf?v=1711740582');
+  font-weight: 400;
   font-style: normal;
 }
  
@@ -222,12 +225,15 @@ body {
   --TitleReviewsWeight_Yotpo: bold;
   --ContentReviews_Yotpo: #6B6D76;
   --VerifiedIconBackgroundColor_Yotpo: #1cc286;
-  --StoreOwnerAvatar_Yotpo:;
+}
+
+.yotpo-widget-clear, .yotpo-widget-clear button, .yotpo-widget-clear form input, .yotpo-widget-clear span {
+  color: #6b6d76;
 }
 
 .yotpo-reviews-main-widget {
   --primary-font-family: "Gotham", sans-serif !important;
-  --primary-font-weight: 700 !important;
+  --primary-font-weight: 500 !important;
   --primary-font-style: normal !important;
   --secondary-font-family: "Gotham", sans-serif !important;
   --secondary-font-weight: 400 !important;
