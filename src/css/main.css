@@ -690,14 +690,10 @@ display: none;
   align-items: center;
 }
 
-.yotpo-device-mobile .yotpo-review-form[data-v-2c18621a],
-.yotpo-device-tablet .yotpo-review-form[data-v-2c18621a],
+.yotpo-device-mobile .yotpo-review-form[data-v-18c865ea],
+.yotpo-device-tablet .yotpo-review-form[data-v-18c865ea],
 .yotpo-input-wrapper.yotpo-new-review-content {
   width: 100%!important;
-}
-
-.yotpo-review-media-modal .yotpo-review-media-modal-body .yotpo-modal-body-left-side .yotpo-review-media-modal-preview-container[data-v-7e610a9c] {
-  justify-content: center;
 }
 
 a.yotpo-checkbox-link {
@@ -716,3 +712,5 @@ a.yotpo-checkbox-link {
 .yotpo-widget-clear, .yotpo-widget-clear button, .yotpo-widget-clear form input, .yotpo-widget-clear span {
   color: #6b6d76!important;
 }
+
+
