@@ -4,6 +4,11 @@
   font-family: GoodSans;
   src: url("https://cdn.shopify.com/s/files/1/0708/4605/4708/files/GoodSans-Medium.woff2?v=1724423197");
 }
+
+@font-face {
+  font-family: GoodSans;
+  src: url("https://cdn.shopify.com/s/files/1/0708/4605/4708/files/GoodSans-Regular.woff2?v=1724423197");
+}
 :root {
   --primary-template-background: #04194c;
   --secondary-template-background: #e9eef9;
