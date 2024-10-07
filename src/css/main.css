@@ -23,6 +23,10 @@ a#yotpo-widget-btn, a {
   text-decoration: none;
 }
 
+a.yotpo-sr-bottom-line-summary {
+  text-decoration: unset !important;
+}
+
 :root {
   --primary-template-background: #04194c;
   --secondary-template-background: #e9eef9;
