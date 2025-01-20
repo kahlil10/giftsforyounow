@@ -8,9 +8,9 @@ import StarRating from "./components/StarRating";
 import UgcGallery from "./components/UgcGallery";
 
 
-function App() {
+function App() { 
   //Instance ID a
-  let InstanceId_Widget = "903232";  
+  let InstanceId_Widget = "678254";  
   let InstanceId_QA = ""; 
   let InstanceId_SEO = "905171";
   let InstanceId_Carousel = "";
