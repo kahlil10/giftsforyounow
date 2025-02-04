@@ -84,7 +84,7 @@ body {
 }
 
 .wrapper {
-  max-width: 1230px;
+  max-width: 1400px;
   width: 100%;
   padding: 30px 10px;
   margin: 0 auto;
@@ -230,10 +230,6 @@ body {
   height: auto;
 }
 
-
-.wrapper {
-  max-width: 1400px;
-}
 /*# sourceMappingURL=main.css.map */
 
 
