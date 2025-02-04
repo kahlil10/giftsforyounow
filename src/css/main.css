@@ -230,6 +230,10 @@ body {
   height: auto;
 }
 
+
+.wrapper {
+  max-width: 1400px;
+}
 /*# sourceMappingURL=main.css.map */
 
 
