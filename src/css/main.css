@@ -232,6 +232,16 @@ body {
 
 /*# sourceMappingURL=main.css.map */
 
+/* css need to remove */
+.accordion-body {
+  background-color: #efefef;
+}
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+  min-height: 75vh;
+}
+/* css need to remove */
 
 
 
