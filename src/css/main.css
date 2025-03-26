@@ -237,10 +237,12 @@ body {
   background-color: #efefef;
 }
 .wrapper {
-  width: 100%;
-  margin: 0 auto;
-  min-height: 75vh;
+  width: auto;
+    max-width: 774px;
 }
+
+
+
 /* css need to remove */
 
 
