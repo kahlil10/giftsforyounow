@@ -241,8 +241,9 @@ body {
     max-width: 774px;
 }
 
-
-
+.rating-holder section {
+  background-color: #efefef!important;
+}
 /* css need to remove */
 
 
